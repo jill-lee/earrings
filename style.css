@@ -93,7 +93,7 @@
 }
 
 
-:hover {
+.thumbnail:hover  {
 box-shadow: -1px 0px 17px 0px rgba(0,0,0,0.75)
 }
 
