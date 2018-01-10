@@ -1,1 +1,1 @@
-# earrings  https://phoenix-burn.github.io/earrings/
+# earrings  https://jill-lee.github.io/earrings/
